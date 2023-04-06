@@ -10,7 +10,6 @@
     "lint": "eslint --fix src test",
     "test": "jest --detectOpenHandles --forceExit"
   },
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ilkkamtk/SSSF-auth-server.git"
